@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/cotacao-online",
+    "/home",
+    "/politica",
+    "/sobre-nos",
+    "/telemedicina"
+  ]
+}
