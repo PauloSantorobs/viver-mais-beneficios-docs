@@ -1,9 +1,8 @@
 {
   "routes": [
     "/",
-    "/cotacao-online",
     "/home",
-    "/politica",
+    "/plano-funeral",
     "/sobre-nos",
     "/telemedicina"
   ]
